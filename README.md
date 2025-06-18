@@ -1,6 +1,4 @@
-# 📟 Sistem Manajemen Magang - Laravel
-
-Aplikasi manajemen magang berbasis web yang memisahkan hak akses berdasarkan role **Admin** dan **Mahasiswa**. Sistem ini terhubung dengan backend API eksternal (CodeIgniter) untuk pengambilan dan pengelolaan data.
+# 📟 UAS - Laravel
 
 Apa itu Laravel?
 Laravel adalah framework PHP yang digunakan untuk membangun aplikasi web dengan struktur yang rapi, aman, dan efisien. Laravel menerapkan prinsip MVC (Model-View-Controller) untuk memisahkan logika, tampilan, dan data, sehingga memudahkan pengembangan dan pemeliharaan aplikasi.
